@@ -1,0 +1,12 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+
+    <file src="images/mask.png" />
+    <file src="images/noavatar.png" />
+    <file src="images/masked.fx" />
+    <file src="images/tex_matrix.fx" />
+    <file src="images/hp.png" />
+    <file src="images/armor.png" />
+    <file src="images/hp_full.png" />
+    <file src="images/armor_full.png" />
+</meta>

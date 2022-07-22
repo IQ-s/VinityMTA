@@ -1,0 +1,11 @@
+<meta>
+    <script src="anims.lua" type="client" cache="false" /> 
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <file src="images/bg.png" />
+    <file src="images/aha.png" />
+    <file src="images/car.png" />
+    <file src="images/button.png" />
+    <file src="images/button2.png" />
+</meta>

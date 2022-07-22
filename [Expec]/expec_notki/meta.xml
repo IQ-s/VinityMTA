@@ -1,0 +1,14 @@
+<meta>
+    <script src="anims.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <file src="images/preview.png" />
+    <file src="images/bg.png" />
+    <file src="images/succes_icon.png" />
+    <file src="images/error_icon.png" />
+    <file src="images/info_icon.png" />
+
+    <export function="noti" type="client" />
+    <export function="noti" type="server" />
+</meta>

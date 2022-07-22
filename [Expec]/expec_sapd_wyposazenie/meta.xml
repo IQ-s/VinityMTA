@@ -1,0 +1,14 @@
+<meta>
+    <script src="anims.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <file src="images/bg.png" />
+    <file src="images/paralizator.png" />
+    <file src="images/palka.png" />
+    <file src="images/m4.png" />
+    <file src="images/kamizelka.png" />
+    <file src="images/bg_item.png" />
+    <file src="images/add.png" />
+    <file src="images/remove.png" />
+</meta>

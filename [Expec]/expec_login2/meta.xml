@@ -1,0 +1,17 @@
+<meta>
+<script src="anims.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+	
+	<script src="server.lua" />
+	
+	
+    <file src="images/preview.png" />
+    <file src="images/bg.png" />
+    <file src="images/avatar_bg.png" />
+    <file src="images/logo.png" />
+    <file src="images/music.png" />
+    <file src="images/button.png" />
+    <file src="images/spawn_bg.png" />
+    <file src="images/przecho.png" />
+    <file src="images/Spawn.png" />
+</meta>

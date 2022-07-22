@@ -1,0 +1,13 @@
+<meta>
+
+<script src="anims.lua" type="client" cache="false" />
+<script src="client.lua" type="client" cache="false" />
+
+<file src="images/Score.png" />
+<file src="images/bg.png" />
+<file src="images/logo.png" />
+<file src="images/pasek.png" />
+<file src="images/pasek2.png" />
+<file src="images/more.png" />
+ 
+</meta>

@@ -1,0 +1,34 @@
+<meta>
+    <script src="main.lua" type="client" cache="false" />
+    <script src="anims.lua" type="client" cache="false" />
+    <script src="fonts.lua" type="client" cache="false" />
+    <script src="editbox.lua" type="client" cache="false" />
+    <script src="buttons.lua" type="client" cache="false" />
+    <export function="showComponents" type="client" />
+    <export function="createButton" type="client" />
+    <export function="createEditbox" type="client" />
+    <export function="destroyButton" type="client" />
+    <export function="destroyEditbox" type="client" />
+    <export function="getActiveEditbox" type="client" />
+    <export function="getNextEditbox" type="client" />
+    <export function="setEditboxMasked" type="client" />
+    <export function="getEditboxText" type="client" />
+    <export function="getFont" type="client" />
+
+
+    <file src="img/buttons/circle.png" />
+    <file src="img/buttons/login.png" />
+    <file src="img/buttons/button.png" />
+    <file src="img/editbox/user.png" />
+    <file src="img/editbox/password.png" />
+    <file src="img/editbox/editbox_pass-hidden.png" />
+    <file src="img/editbox/editbox_pass-shown.png" />
+    <file src="img/editbox/editbox.png" />
+    <file src="img/editbox/editbox_iconbg.png" />
+
+    <file src="fonts/regular.ttf" />
+    <file src="fonts/bold.ttf" />
+    <file src="fonts/semibold.ttf" />
+    <file src="fonts/medium.ttf" />
+    <file src="fonts/light.ttf" />
+</meta>r

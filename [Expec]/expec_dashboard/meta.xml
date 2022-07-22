@@ -1,0 +1,15 @@
+<meta>
+    <script src="anims.lua" type="client" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" />
+
+    <file src="images/info.png" />
+    <file src="images/bg.png" />
+    <file src="images/button_off.png" />
+    <file src="images/button_on.png" />
+    <file src="images/logo.png" />
+    <file src="images/xd.png" />
+    <file src="images/invite_bg.png" />
+    <file src="images/use_button.png" />
+    <file src="images/award_bg.png" />
+</meta>
